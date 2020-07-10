@@ -2,7 +2,7 @@
 
 Here something about me:
 
-- 🔭 I’m currently working on [Dextra Digital](www.dextra.com.br)
+- 🔭 I’m currently workinga at [Dextra Digital](www.dextra.com.br)
 - 🚀 I'm currently a Microsoft MVP on Developer Technologies category
 - 🌱 I work with .NET, NodeJS and sometimes, Java.
 - 🚀 I’m producing content about .NET, Blazor, Node, Azure and other developement and cloud stuff.
