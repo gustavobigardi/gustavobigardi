@@ -17,8 +17,8 @@
 <br/>
 <br/>
 <p align="justify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavobigardi&show_icons=true&count_private=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-silk-xi.vercel.app/api?username=gustavobigardi&show_icons=true&count_private=true&theme=gruvbox" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobigardi&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=gustavobigardi&layout=compact&theme=gruvbox" />
 </p>
