@@ -14,11 +14,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gbbigardi/)](https://www.instagram.com/gbbigardi/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/gustavo.bellinibigardi.1/)](https://www.facebook.com/gustavo.bellinibigardi.1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/gustavobigardi)](https://twitter.com/gustavobigardi)
-<br/>
-<br/>
-<p align="justify">
-  <img align="center" src="https://github-readme-stats-silk-xi.vercel.app/api?username=gustavobigardi&show_icons=true&count_private=true&theme=gruvbox" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats-silk-xi.vercel.app/api/top-langs/?username=gustavobigardi&layout=compact&theme=gruvbox" />
-</p>
