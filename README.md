@@ -5,6 +5,8 @@
 * Sou DevMaster na [Dextra](https://www.dextra.com.br/). Estamos [contratando!](https://apply.workable.com/dextra/)
 * Posto parte de meu conteúdo no [Medium](https://medium.com/@gbbigardi) mas tenho meu blog dedicado em construção e logo teremos novidades...
 
+* Para acessar meus repositórios de Demos e Palestras, acesse esta [Organização](https://github.com/gbbigardi).
+
 
 #### Minhas redes sociais:
 [![MVP Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003504)](https://mvp.microsoft.com/en-us/PublicProfile/5003504)
