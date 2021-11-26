@@ -5,7 +5,7 @@
 * Sou DevMaster na [Dextra](https://www.dextra.com.br/). Estamos [contratando!](https://apply.workable.com/dextra/)
 * Posto parte de meu conteúdo no [Medium](https://medium.com/@gbbigardi) mas tenho meu blog dedicado em construção e logo teremos novidades...
 
-* Para acessar meus repositórios de Demos e Palestras, acesse esta [Organização](https://github.com/gbbigardi).
+### **_Para acessar meus repositórios de Demos e Palestras, acesse esta [Organização](https://github.com/gbbigardi)._**
 
 
 #### Minhas redes sociais:
