@@ -2,7 +2,7 @@
 
 * I've been working in software development for over 18 years, helping clients tackle challenges and meet their needs through the transformation that technology can enable.
 * I'm a [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/6a750f23-31e0-e911-a9a1-000d3a137063) for 6 consecutive years and my goal is to help people and share knowledge—giving back everything the community has provided me.
-* I currently work as a Principal Developer at [Clarus IT](https://www.clarusit.com.br/).
+* I currently work as a Consultant / CTO at [Clarus IT](https://www.clarusit.com.br/).
 * I usually publish the content I create as articles on my [Medium](https://medium.com/@gbbigardi) profile.
 
 #### My social networks:
